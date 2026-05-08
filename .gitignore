@@ -1,0 +1,19 @@
+# Agent Framework & Internal Configurations
+.claude/
+CLAUDE.md
+settings.json
+
+# Compiled binaries and build artifacts
+*.exe
+*.o
+dojo
+
+# Generated artifacts
+dojo_threat_report.csv
+
+# Large documents & local notes
+*.docx
+
+# OS-specific files
+.DS_Store
+Thumbs.db
