@@ -1,7 +1,9 @@
 # The Digital Defense Dojo — Application Walkthrough
 
-> **Lead Developer:** C. Rithvik | **Academic Collaborator:** CH. Gayathri  
-> **Course:** ECE/Cybersecurity — Data Structures Capstone
+> **Lead Developer:** C. Rithvik | 
+> **Course:** CSE-Cybersecurity |
+>  **Institute:** VNR VJIET | 
+
 
 ---
 
